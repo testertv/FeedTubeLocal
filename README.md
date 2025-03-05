@@ -15,6 +15,15 @@ FeedTube is a RSS Feeds Reader for YouTube. It is a straightforward, user-friend
 <p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/001.jpg?raw=true"></a></p>
 <p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/002.jpg?raw=true"></a></p>
 
+<h2 align="center"><b>Demo webpage</b></h2>
+
+<p align="center"> 
+ <a href="https://testertv.github.io/FeedTube/" alt="License: GPLv3"><img src="https://img.shields.io/badge/Demo-brightgreen.svg" width="100"></a>  
+ </p><p align="center">
+
+The demo website does not show the full functionality of the original project. But you can get an impression of how it roughly works.
+
+
 <h2 align="center"><b>Installation</b></h2>
 
 - Download and unpack the archive
