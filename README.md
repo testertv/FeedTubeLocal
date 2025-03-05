@@ -44,6 +44,7 @@ The Google account is only required to create Google App Scripts, which will be 
 
 - Please note that the Google Apps Scripts requests are limited in number. If this is reached, the FeedTube will not work for 24 hours.
 - Currently it is not possible to separate normal videos from streams due to request limits. Although technically this function is already programmed as beta version. If you know a free and unlimited API, please let me know. Then I will add the stream distinction.
+- Import from NewPipe is possible!
 
 <h2 align="center"><b>💳 Please support my projects! 🤗 Thx.!!!</b></h2>
 <p align="center">
