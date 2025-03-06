@@ -12,8 +12,8 @@
 FeedTube is a RSS Feeds Reader for YouTube. It is a straightforward, user-friendly web application built with HTML and JavaScript, designed to help you easily track and manage your YouTube subscriptions. With its clean and minimal interface, FeedTube allows you to quickly view and stay updated on your favorite channels, all in one place. This open-source software is completely free to use.
 
 <h2 align="center"><b>Screenshots</b></h2>
-<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/001.jpg?raw=true"></a></p>
-<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/002.jpg?raw=true"></a></p>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/001.png?raw=true"></a></p>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/002.png?raw=true"></a></p>
 
 <h2 align="center"><b>Demo webpage</b></h2>
 
@@ -38,7 +38,7 @@ The Google account is only required to create Google App Scripts, which will be 
  </p><p align="center">
  
 
-<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/003.jpg?raw=true"></a></p>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/FeedTube/refs/heads/main/Screenshots/003.png?raw=true"></a></p>
 
 <h2 align="center"><b>Important inforamtion</b></h2>
 
