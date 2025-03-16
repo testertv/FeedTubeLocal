@@ -25,6 +25,8 @@ The demo website does not show the full functionality of the original project. B
 
 
 <h2 align="center"><b>Installation</b></h2>
+⚠️ Google no longer supports the installation code. A solution is being actively searched for.⚠️
+
 
 - Download and unpack the archive
 - Drag and drop FeedTube.html into the browser window
